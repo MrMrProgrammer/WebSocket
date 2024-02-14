@@ -4,3 +4,4 @@
 ```markdwon
 python server.py
 ```
+### After that, open the index.html file.
